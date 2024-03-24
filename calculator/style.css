@@ -1,0 +1,45 @@
+#c{
+    text-align: center;
+}
+.container{
+    width: 400px;
+    height: 420px;
+    background-color: rgb(26, 24, 24);
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+p{
+    margin-left: 10px;
+    color: aliceblue;
+    font-size: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+
+}
+#screen{
+    background-color: white;
+    height: 60px;
+    width: 380px;
+    margin: 5px;
+    font-size: 4rem;
+    text-align: right;
+}
+.button{
+    background-color:rgb(56, 55, 55) ;
+    color: white;
+    width: 75px;
+    height: 47px;
+    font-size: 2.5;
+    margin: 10px;
+    border-radius: 10px;
+}
+.clear{
+    background-color: red;
+}
+.operator{
+    background-color: rgb(133, 135, 136);
+}
+.button:hover{
+    border: 5px solid greenyellow;
+}
